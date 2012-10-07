@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCCC13Demo.Web", "TCCC13Demo.Web\TCCC13Demo.Web.csproj", "{F4601BA6-F92F-4FB3-97F5-C1398519C03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{6B20F0DD-749A-4953-B162-40C2D6F3A603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService.Messages", "UserService.Messages\UserService.Messages.csproj", "{68EC0071-D613-4E4B-966C-2949205E814C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService", "EmailService\EmailService.csproj", "{DD28DF08-1BD8-481E-8EAF-1080275E1410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4601BA6-F92F-4FB3-97F5-C1398519C03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4601BA6-F92F-4FB3-97F5-C1398519C03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4601BA6-F92F-4FB3-97F5-C1398519C03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4601BA6-F92F-4FB3-97F5-C1398519C03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B20F0DD-749A-4953-B162-40C2D6F3A603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B20F0DD-749A-4953-B162-40C2D6F3A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B20F0DD-749A-4953-B162-40C2D6F3A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B20F0DD-749A-4953-B162-40C2D6F3A603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EC0071-D613-4E4B-966C-2949205E814C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EC0071-D613-4E4B-966C-2949205E814C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EC0071-D613-4E4B-966C-2949205E814C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EC0071-D613-4E4B-966C-2949205E814C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD28DF08-1BD8-481E-8EAF-1080275E1410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD28DF08-1BD8-481E-8EAF-1080275E1410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD28DF08-1BD8-481E-8EAF-1080275E1410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD28DF08-1BD8-481E-8EAF-1080275E1410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
